@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WordsBucket/static/css/main.44005783.css",
+    "main.js": "/WordsBucket/static/js/main.ccb86eaf.js",
+    "static/media/logo.png": "/WordsBucket/static/media/logo.e9922a0e59841b923d2f.png",
+    "static/media/bubble3.png": "/WordsBucket/static/media/bubble3.8b43186c3648682497f5.png",
+    "static/media/bubble2.png": "/WordsBucket/static/media/bubble2.83e174c491f19bec58f7.png",
+    "static/media/bucket-card.png": "/WordsBucket/static/media/bucket-card.f70d8649baf79bcc5fb2.png",
+    "static/media/bubble1.png": "/WordsBucket/static/media/bubble1.a19d2626bf3710300d73.png",
+    "index.html": "/WordsBucket/index.html",
+    "main.44005783.css.map": "/WordsBucket/static/css/main.44005783.css.map",
+    "main.ccb86eaf.js.map": "/WordsBucket/static/js/main.ccb86eaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44005783.css",
+    "static/js/main.ccb86eaf.js"
+  ]
+}
