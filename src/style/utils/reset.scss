@@ -1,0 +1,63 @@
+// Reset basic styles
+html,
+body,
+ul,
+ol,
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;;
+  color: #49688D;
+  background-color: #EEF6FF;
+  padding: 5px;
+}
+
+// Remove default list styles
+ul,
+ol {
+  list-style: none;
+}
+
+// Reset heading margins
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-weight: normal;
+}
+
+// Reset links
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+// Add box-sizing for consistent sizing
+* {
+  box-sizing: border-box;
+}
+
+// Normalize.css rules
+html {
+  line-height: 1.15; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  display: block;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}

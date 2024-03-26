@@ -1,0 +1,44 @@
+.main-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-block: 20px;
+  gap: 20px;
+
+  &__mid {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+  }
+
+  &__text {
+    background-color: white;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+    border-radius: 20px;
+  }
+
+  &__button {
+    width: 150px;
+    height: 48px;
+    outline: none;
+    border: none;
+    border-radius: 35px;
+    font-size: 20px;
+
+    &-up {
+      background: linear-gradient(90deg, #AEC6BA, #FFDE59);
+    }
+
+    &-change {
+      background: linear-gradient(90deg, #62D5E5, #D5E5ED);
+    }
+
+    &-down {
+      background: linear-gradient(90deg, #FF66C4, #FFF1B8);
+    }
+  }
+}

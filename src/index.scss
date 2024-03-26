@@ -1,0 +1,15 @@
+@import "./style/utils/reset";
+@import "./style/utils/variables";
+@import "./style/utils/fonts";
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 99vh;
+}
+
+.content {
+  flex: 1;
+}
+

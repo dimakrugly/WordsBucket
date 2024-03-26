@@ -1,0 +1,22 @@
+.card {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+}
+.rotate {
+  transition: transform 0.5s ease;
+}
+
+.reversed {
+  transform: rotateY(180deg);
+}
+
+.content {
+  transition: transform 0.5s ease;
+}
+
+.reversed-content {
+  transform: rotateY(180deg);
+}
